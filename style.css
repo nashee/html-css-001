@@ -1,0 +1,21 @@
+div{
+    border: 1px solid black;
+}
+
+.wrapper {
+    height: 350px;
+    width: 735px;
+    background: #3a363f;
+    margin: 0 auto;
+}
+/*
+//  main size   width: 35p0px  height: 735px
+    main backgournd: #3a363f
+    btn-color:  #a7cf5f
+    190-735 =  iput +  button + margin(4)
+    button { width : 80px; 
+             height: 35px;
+     input color:   #c4c4c4
+     
+------------------------------------------
+*/
