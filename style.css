@@ -1,21 +1,51 @@
-div{
-    border: 1px solid black;
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
 .wrapper {
-    height: 350px;
     width: 735px;
-    background: #3a363f;
+    height: 350px;
     margin: 0 auto;
+    border: solid red 1px;
+
 }
-/*
-//  main size   width: 35p0px  height: 735px
-    main backgournd: #3a363f
-    btn-color:  #a7cf5f
-    190-735 =  iput +  button + margin(4)
-    button { width : 80px; 
-             height: 35px;
-     input color:   #c4c4c4
-     
-------------------------------------------
-*/
+.logo {
+    margin-top: 60px;
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+p{
+    width: 555px;
+    border: 1px solid black;
+    margin-left: 76px;
+}
+
+.input-button {
+    border: 1px solid black;
+}
+
+.input-div {
+       border: 1px solid red;
+       margin-top: 30px;
+}
+
+input {
+    width: 500px;
+    height: 30px;
+    margin-left: 73px;
+
+}
+
+.button {
+    padding: 5px 10px;
+    
+}
+
+.footer {
+    text-align: center;
+    border: green 1px solid;
+    margin-top: 40px;
+}
