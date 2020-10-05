@@ -44,6 +44,8 @@ input {
 
 .button {
     padding: 5px 10px;
+    background-color: #a7cf6f;
+    border-radius: 4px;
     
 }
 
